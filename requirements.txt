@@ -1,13 +1,14 @@
 streamlit==1.25.0
-pymupdf>=1.22.5
+pymupdf>=1.26.4
 python-docx>=0.8.12
-pytesseract>=0.3.10
-google-generativeai>=0.2.0
-python-dotenv>=1.0.0
+pytesseract>=0.3.13
+google-generativeai>=0.8.5
+python-dotenv>=1.1.1
 numpy>=1.26.4
-Pillow>=10.0.0
-rich>=14.1.0
+Pillow<10,>=9.5.0
+rich<14,>=10.14.0
 markdown-it-py>=4.0.0
 pygments>=2.19.2
 mdurl>=0.1.2
+
 
